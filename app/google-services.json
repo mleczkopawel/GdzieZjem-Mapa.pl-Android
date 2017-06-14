@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "83547045080",
+    "firebase_url": "https://mapss-166208.firebaseio.com",
+    "project_id": "mapss-166208",
+    "storage_bucket": "mapss-166208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83547045080:android:0786c8bccf8d6006",
+        "android_client_info": {
+          "package_name": "pl.mleczko_pawel.jakzjem_mapapl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83547045080-7ocbkjinepvn4nopp2bmq4tprfeo6jl3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pl.mleczko_pawel.jakzjem_mapapl",
+            "certificate_hash": "aa3c2450624ba5a61c1afa8cb7bd4b5673e83ec6"
+          }
+        },
+        {
+          "client_id": "83547045080-c7dlok3r3begduijpanqei2167m014bj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pl.mleczko_pawel.jakzjem_mapapl",
+            "certificate_hash": "0dae4bfecc4187a186469f24c9d2a4428f29cd15"
+          }
+        },
+        {
+          "client_id": "83547045080-cvt1a18eio2rvto9qf20v1pqhocj9bbs.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "83547045080-eduomu2ikkv1tueeq461b1dv222p75bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHfN2yFL80Z3OTahfOHEjZnxqalAuOFys"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83547045080-cvt1a18eio2rvto9qf20v1pqhocj9bbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
